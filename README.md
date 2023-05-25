@@ -2,11 +2,11 @@
 <h3 align="center">Current computer science masters student at UC Davis. Graduated from CSU Stanislaus with a BS in computer science in 2023.</h3>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/Eissayou](https://github.com/Eissayou)
+- 👨‍💻 All of my projects are available at: [https://github.com/Eissayou](https://github.com/Eissayou)
 
-- 📫 How to reach me **eissayouj@gmail.com**
+- 📫 How to reach me: **eissayouj@gmail.com**
 
-- ⚡ Fun fact **I love to play Tennis**
+- ⚡ Fun fact: **I love to play Tennis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
