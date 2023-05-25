@@ -1,7 +1,6 @@
 <h1 align="center">Hello 👋, I'm Jason Eissayou</h1>
 <h3 align="center">Current computer science masters student at UC Davis. Graduated from CSU Stanislaus with a BS in computer science in 2023.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eissayou" alt="eissayou" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Eissayou](https://github.com/Eissayou)
 
