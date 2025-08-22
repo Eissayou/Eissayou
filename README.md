@@ -1,12 +1,10 @@
 <h1 align="center">Hello 👋, I'm Jason Eissayou</h1>
 <h3 align="center">Graduated from UC Davis with an MS in computer science in July 2025 and CSU Stanislaus with a BS in computer science in May 2023.</h3>
 
+- My personal website: [Eissayou.com](https://www.eissayou.com)
+- All of my projects are available at: [github.com/Eissayou](https://github.com/Eissayou)
 
-- 👨‍💻 All of my projects are available at: [https://github.com/Eissayou](https://github.com/Eissayou)
-
-- 📫 How to reach me: **eissayouj@gmail.com**
-
-- ⚡ Fun fact: **I love to play Tennis**
+- How to reach me: **jason@eissayou.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
