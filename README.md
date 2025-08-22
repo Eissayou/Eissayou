@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jason Eissayou</h1>
-<h3 align="center">Current MSCS student at UC Davis. Graduated from CSU Stanislaus with a BS in computer science in May 2023.</h3>
+<h3 align="center">Graduated from UC Davis with an MS in computer science in July 2025 and CSU Stanislaus with a BS in computer science in May 2023.</h3>
 
 
 - 👨‍💻 All of my projects are available at: [https://github.com/Eissayou](https://github.com/Eissayou)
