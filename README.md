@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Jason Eissayou</h1>
-<h3 align="center">Graduated from UC Davis with an MS in computer science in July 2025 and CSU Stanislaus with a BS in computer science in May 2023.</h3>
+<h3 align="center">Graduated from UC Davis with an MS in computer science in September 2025 and CSU Stanislaus with a BS in computer science in May 2023.</h3>
 
 - My personal website: [Eissayou.com](https://www.eissayou.com)
 - All of my projects are available at: [github.com/Eissayou](https://github.com/Eissayou)
